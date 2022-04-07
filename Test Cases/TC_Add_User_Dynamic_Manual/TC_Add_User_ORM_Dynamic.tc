@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Add_User_ORM_Dynamic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd459add-2b4d-45da-90dc-4e2a1abc8d1a</testCaseGuid>
+</TestCaseEntity>
